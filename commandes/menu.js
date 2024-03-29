@@ -31,13 +31,13 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛》────☣
+╭────《☠️мґ.ʊηкη◎ẘη☠️》────☣
 🔱 *User* : ${s.OWNER_NAME}
 🔱 *Mode* : ${mode}
 🔱 *Commands* : ${cm.length} 
 🔱 *Time* : ${temps} 
 🔱 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-🔰 𝗞𝗜𝗡𝗚 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗠𝗗 𝗩20
+🔰 𝐷𝛥𝑅𝛯𝛫 𝛻𝛪𝐿 𝛭𝐷
 ╰─────✨✨✨✨✨─────☣ \n\n`;
  
     let menuMsg=`  
@@ -59,7 +59,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ✨ —————*
 
-  *ᵏⁱⁿᵍ ⁱᵇʳᵃʰⁱᵐ ᵗᵉᶜʰ 2024🎇*                                         
+  *☠️мґ.ʊηкη◎ẘη☠️ 2024🎇*                                         
 *↪═════════════☣*
 `;
 
