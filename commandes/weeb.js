@@ -5,8 +5,8 @@ const { writeFile } = require('fs/promises')
 
 // Commande waifu
 zokou({
-  nomCom: "Dark Evil",
-  categorie: "Mr unknown",
+  nomCom: "darkevil",
+  categorie: "Mrunknown",
   reaction: "😏"
 },
 async (origineMessage, zk, commandeOptions) => {
@@ -29,8 +29,8 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande neko
 zokou({
-  nomCom: "Evil",
-  categorie: "Mr unknown",
+  nomCom: "evil",
+  categorie: "Mrunknown",
   reaction: "☣"
 },
 async (origineMessage, zk, commandeOptions) => {
@@ -52,8 +52,8 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande shinobu
 zokou({
-  nomCom: "Dark Evil",
-  categorie: "Mr Unknown",
+  nomCom: "darkevil",
+  categorie: "Mrunknown",
   reaction: "👑"
 },
 async (origineMessage, zk, commandeOptions) => {
@@ -75,8 +75,8 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande megumin
 zokou({
-  nomCom: "Dark Evil",
-  categorie: "Mr unknown",
+  nomCom: "darkevil",
+  categorie: "Mrunknown",
   reaction: "☣"
 },
 async (origineMessage, zk, commandeOptions) => {
@@ -99,8 +99,8 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 zokou({
-  nomCom: "Dark Evil",
-  categorie: "Mr Unknown",
+  nomCom: "darkevil",
+  categorie: "Mrunknown",
   reaction: "☣"
 },
 async (origineMessage, zk, commandeOptions) => {
@@ -127,7 +127,7 @@ async (origineMessage, zk, commandeOptions) => {
 });
 
 
-zokou({nomCom:"Dark Evil",categorie: "Mr Unknown",reaction : "💞"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
+zokou({nomCom:"Dark Evil",categorie: "Mrunknown",reaction : "💞"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
     let api = 'https://telegra.ph/file/99bf287535d9231a47ab2.jpg'
   try {
      repondre('she/he dont love you :)')
