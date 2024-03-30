@@ -36,7 +36,7 @@ zokou({
 *Url :* _${videos[0].url}_
 
 
-_*on downloading...*_\n\n`
+_*ι'м мr υnĸnown нere ιѕ yoυr vιdeo 👇*_\n\n`
        }
 
       
