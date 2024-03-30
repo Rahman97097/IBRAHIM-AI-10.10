@@ -1,10 +1,10 @@
- <h1 align="center"> IBRAHIM-AI-10.10 </h1>
-<p align="center"> IBRAHIM-AI-10.10, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> dark evil-AI-10.10 </h1>
+<p align="center"> DARK EVIL-AI-10.10, A Simple WhatsApp user BOT, Created by Mr Rahman.
 </p>
 
 
 
-<img src="https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/2fb35be80b3cf79f0b92c.jpg" width="700" height="300"/>
 
 
 
