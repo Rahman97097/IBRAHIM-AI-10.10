@@ -29,21 +29,21 @@
 3, Copy the session and deploy on heroku.  
 
    
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10).***
+ - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Rahman97097/IBRAHIM-AI-10.10).***
 
 
 ## Contributions
 
-Contributions to IBRAHIM-AI-10.10 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to dark evil-AI-10.10 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The IBRAHIM-AI-10.10 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The DARK EVIL-AI-10.10 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the DARK EVIL-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
-- <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj)
-- <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.me/message/74F2PC4JA4F3P1)
+- <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/FQbptOTJzBv2DSTUm3DQ8R)
+- <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.me/923015954782)
 
